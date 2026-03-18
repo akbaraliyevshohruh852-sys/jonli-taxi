@@ -5,3 +5,7 @@ pydantic
 python-dotenv
 flask
 nest_asyncio
+pyrogram
+tgcrypto
+aiohttp
+aiofiles

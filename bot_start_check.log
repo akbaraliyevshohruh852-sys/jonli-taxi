@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "d:\jonlitaxi\bot\main.py", line 23, in <module>
+    from core.config import TOKEN, ADMIN_IDS
+ModuleNotFoundError: No module named 'core.config'
